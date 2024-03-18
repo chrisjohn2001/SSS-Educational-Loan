@@ -1,0 +1,40 @@
+.text-center
+{
+    text-align: center;
+}
+
+.text-left
+{
+    text-align: left;
+}
+
+.text-right{
+    text-align: right;
+}
+
+table, th
+{
+    border-color: 1px solid black;
+    border-collapse: collapse;
+}
+
+.borderless-table td{
+    border: none;
+}
+
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.padding{
+    padding: 5px;
+}
+
+.margin{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+
+
